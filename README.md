@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1539-kth-missing-positive-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -35,8 +38,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

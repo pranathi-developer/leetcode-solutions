@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0136-single-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1539-kth-missing-positive-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1539-kth-missing-positive-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Divide and Conquer
@@ -24,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0441-arranging-coins) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -39,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Union-Find
 |  |
@@ -64,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

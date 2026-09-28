@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1539-kth-missing-positive-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Union-Find
 |  |
 | ------- |
@@ -88,8 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/pranathi-developer/leetcode-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
